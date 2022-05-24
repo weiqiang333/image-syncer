@@ -1,4 +1,4 @@
-module github.com/AliyunContainerService/image-syncer
+module github.com/weiqiang333/image-syncer
 
 go 1.15
 

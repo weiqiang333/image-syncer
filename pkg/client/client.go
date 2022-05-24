@@ -6,8 +6,8 @@ import (
 	"strings"
 	sync2 "sync"
 
-	"github.com/AliyunContainerService/image-syncer/pkg/sync"
-	"github.com/AliyunContainerService/image-syncer/pkg/tools"
+	"github.com/weiqiang333/image-syncer/pkg/sync"
+	"github.com/weiqiang333/image-syncer/pkg/tools"
 	"github.com/sirupsen/logrus"
 )
 
